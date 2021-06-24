@@ -1,8 +1,8 @@
 * `reroll-giveaway` command
 * `end-giveaway` command
 
-<img src='./examples/start-cmd.png' style="width: 50%;"></img>
-<img src='./examples/giveaway.png' style="width: 50%;"></img>
+<img src='./examples/Screenshot 2021-06-23 10.02.03 PM.png' style="width: 50%;"></img>
+<img src='./examples/Screenshot 2021-06-23 10.07.46 PM.png' style="width: 50%;"></img>
 
 ## Install
 
